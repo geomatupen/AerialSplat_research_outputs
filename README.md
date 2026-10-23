@@ -1,8 +1,8 @@
-# Bimba3D-re Research Outputs
+# AerialSplat Research Outputs
 
-This folder contains the reported research outputs for the thesis **AI-Guided Optimization for 3D Gaussian Splatting on Drone Images**. The files were exported from the Bimba3D-re platform and organized for traceability with the thesis report. The Ridge and MLP folders also include charts generated from the standalone thesis notebooks, which mirror the final model-building code path used for the reported experiments.
+This folder contains the reported research outputs for the thesis **AI-Guided Optimization for 3D Gaussian Splatting on Drone Images**. The files were exported from the AerialSplat platform and organized for traceability with the thesis report. The Ridge and MLP folders also include charts generated from the standalone thesis notebooks, which mirror the final model-building code path used for the reported experiments.
 
-Main code repository: [geomatupen/bimba3d-re](https://github.com/geomatupen/bimba3d-re)
+Main code repository: [geomatupen/AerialSplat](https://github.com/geomatupen/AerialSplat)
 
 Interactive results platform repository: [geomatupen/Thesis-Results-Platform](https://github.com/geomatupen/Thesis-Results-Platform)
 

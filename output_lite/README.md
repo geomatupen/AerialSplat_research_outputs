@@ -1,8 +1,8 @@
-# Bimba3D-re Research Outputs Lite
-
+# AerialSplat Research Outputs Lite
+
 This lightweight folder contains only CSV, JSON, Markdown, and text files copied from the full `outputs` folder. Images, preview renders, and heavy model binary files are intentionally excluded so the folder can be zipped and shared more easily.
 
-Main code repository: [geomatupen/bimba3d-re](https://github.com/geomatupen/bimba3d-re)
+Main code repository: [geomatupen/AerialSplat](https://github.com/geomatupen/AerialSplat)
 
 ## Data-Sharing Scope
 
